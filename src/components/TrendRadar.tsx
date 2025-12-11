@@ -71,7 +71,7 @@ export function TrendRadar({ trends, onTrendClick }: TrendRadarProps) {
   return (
     <div className="bg-white rounded-lg shadow-md p-6">
       <div className="mb-4">
-        <h3 className="text-lg font-semibold text-gray-900">Trend Radar</h3>
+        <h3 className="text-lg font-semibold text-gray-900">Trends Radar</h3>
         <p className="text-sm text-gray-600 mt-1">
           Click any trend to view details. Quadrants represent categories, rings show timeline.
         </p>
