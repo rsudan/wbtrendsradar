@@ -288,7 +288,7 @@ function App() {
               Welcome! Get Started
             </h3>
             <p className="text-sm text-primary-700 mb-3">
-              To begin analyzing trends, you'll need to configure your Perplexity API key.
+              To begin analyzing trends, you'll need to configure your Perplexity API key in settings.
             </p>
             <button
               onClick={() => setShowSettings(true)}
@@ -306,7 +306,7 @@ function App() {
                 Discover Emerging Trends
               </h2>
               <p className="text-lg text-gray-600 max-w-2xl mx-auto">
-                Enter a domain or topic to identify and analyze approximately emerging trends
+                Enter a domain or topic to identify and analyze emerging trends
                 using advanced AI-powered research.
               </p>
             </div>
